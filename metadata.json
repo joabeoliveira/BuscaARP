@@ -1,0 +1,5 @@
+{
+  "name": "BuscaARP",
+  "description": "App para busca de ARPs para servidores e fornecedores interessados em buscar oportunidades de itens em Atas de Registros de Preços. ",
+  "requestFramePermissions": []
+}
